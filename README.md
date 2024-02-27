@@ -1,0 +1,1 @@
+This is the frontend of a Python-powered Rock-Paper-Scissors project developed by a team of five as part of a project-based learning initiative. I led the entire design and implementation of the website, providing an engaging interface for users. It's a sleek, futuristic site with an intuitive menu bar, strong password requirements, and glowing buttons for a modern feel.
